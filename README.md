@@ -5,5 +5,5 @@
 
 #### Stats 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=Lohancode&show_icons=true&theme=github_dark" alt="matthysdev" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohancode&layout=compact&hide=php&theme=github_dark" alt="Lohancode" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=Lohancode&show_icons=true&theme=github_radical" alt="matthysdev" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lohancode&layout=compact&hide=php&theme=github_dark" alt="Lohancode" /> |
 | ------------- | ------------- |
